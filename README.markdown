@@ -8,7 +8,7 @@ A Rails 3 demo application inspired by Curt Hibb's original [Rolling with Ruby o
 
 Clone the project:
 
-    git clone https://github.com/jlong/cookbook.git
+    git clone git@github.com:triangle-ror/cookbook.git
 
 Change to the cookbook directory:
 
